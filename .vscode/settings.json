@@ -1,0 +1,16 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "cSpell.words": [
+        "regionprops",
+        "skimage"
+    ],
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./crack",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}

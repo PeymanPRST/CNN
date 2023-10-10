@@ -1,0 +1,23 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "argmax",
+        "argmin",
+        "crackimage",
+        "crossentropy",
+        "imread",
+        "Peyman",
+        "preds",
+        "regionprops",
+        "relu",
+        "skimage",
+        "streamlit",
+        "xlabel",
+        "ylabel"
+    ],
+    "ignoreWords": [],
+    "import": []
+}
